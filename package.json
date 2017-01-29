@@ -1,0 +1,13 @@
+{
+  "name": "hyper-monochrome",
+  "version": "0.0.1",
+  "description": "A monochrome theme for Hyper",
+  "main": "index.js",
+  "keywords": [
+    "hyper",
+    "theme",
+    "monochrome"
+  ],
+  "author": "Matthias Kern @matthiaskern",
+  "license": "MIT"
+}
