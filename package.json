@@ -9,5 +9,9 @@
     "monochrome"
   ],
   "author": "Matthias Kern @matthiaskern",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/matthiaskern/hyper-monochrome.git"
+  }
 }
